@@ -1,1 +1,4 @@
 # Peterotto23.github.io
+theme: jekyll-theme-minimal
+title: Peterotto23's Homepage
+description: Bookmark this to keep an eye on my project updates!
